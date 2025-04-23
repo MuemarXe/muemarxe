@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning and testing **Advanced artificial intelligence for robotics using Nvidia Programable GPUs and Developing Golang backends**
 
+- Rust is the language I'm advancing for my embedded system at the moment.
+
 - 💬 Ask me about **Embedded Systems and Robotics**
 
 - 📫 How to reach me **muemarevans@gmail.com**
