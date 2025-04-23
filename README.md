@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning and testing **Advanced artificial intelligence for robotics using Nvidia Programable GPUs and Developing Golang backends**
 
 - 💬 Ask me about **Embedded Systems and Robotics**
-- 
 
 - 📫 How to reach me **muemarevans@gmail.com**
 
